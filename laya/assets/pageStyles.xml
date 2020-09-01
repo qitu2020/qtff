@@ -1,0 +1,16 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="MainLayer.scene" props="" ifExport="默认" aName=""/>
+   <item name="GameMain.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="WinLayer.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="GameStartView.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="common/scenes/MoreGameDialog.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="common/scenes/SettingDialog.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="common/scenes/UISign.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="ResultView.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="LoadSceneView.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="commonUI/zs/FullAd.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="commonUI/zs/FullAd_1.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="commonUI/zs/FloatAd.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="scene/ad/FullAd1.scene" props="" ifExport="文件模式" aName=""/>
+</page>
